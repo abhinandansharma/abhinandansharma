@@ -16,24 +16,24 @@
 ###  - 💬 Connect? 
 
 <p align="center">
-<a href="https://twitter.com/abhinandan0659" target="_blank"> <img src="./assests/SVG/twitter.svg" ></a>
-<a href="https://www.instagram.com/_abhinandansharma/" target="_blank"> <img src="./assests/SVG/instagram.svg" ></a>
-<a href="https://www.linkedin.com/in/abhinandan-sharma-672299150/" target="_blank"> <img src="./assests/SVG/linkedIn.svg" ></a>
+<a href="https://twitter.com/abhinandan0659" target="_blank"> <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/twitter.svg" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.instagram.com/_abhinandansharma/" target="_blank"> <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/instagram.svg" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.linkedin.com/in/abhinandan-sharma-672299150/" target="_blank"> <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/linkedIn.svg" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ### - Languages and Tools ...
 <p align="center">
-    <img src="./assests/SVG/HTML.svg">
-    <img src="./assests/SVG/JS.svg">
-    <img src="./assests/SVG/react.svg">
-    <img src="./assests/SVG/firefox.svg">
-    <img src="./assests/SVG/web.svg">
-    <img src="./assests/SVG/chrome.svg">
-    <img src="./assests/SVG/python.svg">
-    <img src="./assests/SVG/web.svg">
-    <img src="./assests/SVG/aws.svg">
-    <img src="./assests/SVG/kubernets.svg">
-    <img src="./assests/SVG/bash.svg">
-    <img src="./assests/SVG/vsCode.svg">
-    <img src="./assests/SVG/npm.svg">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/HTML.svg" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/JS.svg" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/react.svg" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/firefox.svg" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/web.svg" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/chrome.svg" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/python.svg" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/web.svg" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/aws.svg" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/kubernets.svg" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/bash.svg" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/vsCode.svg" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/abhinandansharma/abhinandansharma/tree/master/assests/SVG/npm.svg" style="vertical-align:top; margin:4px">
 </p>
