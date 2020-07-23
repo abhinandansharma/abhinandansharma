@@ -16,7 +16,7 @@
 ###  - 💬 Connect? 
 
 <p align="center">
-<a href="https://twitter.com/abhinandan0659" target="_blank"> <img src="https://raw.githubusercontent.com/abhinandansharma/abhinandansharma/master/assests/SVG/twitter.svg" style="vertical-align:top; margin:4px"></a>
+<a href="https://twitter.com/notjustadev" target="_blank"> <img src="https://raw.githubusercontent.com/abhinandansharma/abhinandansharma/master/assests/SVG/twitter.svg" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.instagram.com/_abhinandansharma/" target="_blank"> <img src="https://raw.githubusercontent.com/abhinandansharma/abhinandansharma/master/assests/SVG/instagram.svg" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.linkedin.com/in/abhinandan-sharma-672299150/" target="_blank"> <img src="https://raw.githubusercontent.com/abhinandansharma/abhinandansharma/master/assests/SVG/linkedIn.svg" style="vertical-align:top; margin:4px"></a>
 </p>
