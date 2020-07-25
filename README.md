@@ -38,12 +38,12 @@
 -->
 ### What I'm working on 👨‍💻 
 - My portfolio website
-- Finishing pending side projects
+- Finishing pending side projects like patatap clone, etc
 
 ### Currently learning -
 - JS
 - react.js
--node.js
+- node.js
 
 #### - Languages and Tools ...
 <p>
