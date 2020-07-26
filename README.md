@@ -3,6 +3,9 @@
 <a href="https://twitter.com/notjustadev">
   <img align="left" alt="Abhinandan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://codepen.io/abhinandansharma">
+  <img align="left" alt="Abhinandan's CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+</a>
 <a href="https://www.linkedin.com/in/abhinandan-sharma-672299150/">
   <img align="left" alt="Abhinandan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,10 +15,7 @@
 <a href="https://instagram.com/_abhinandansharma">
   <img align="left" alt="Abhinandan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<!-- <a href="https://www.hackerrank.com/abhinandan0659">
-  <img align="left" alt="Abhinandan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://github.com/abhinandansharma">
+<!-- <a href="https://github.com/abhinandansharma">
   <img align="left" alt="Abhinandan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.facebook.com/abhinandan0659">
