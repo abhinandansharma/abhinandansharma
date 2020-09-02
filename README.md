@@ -57,7 +57,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandansharma&show_icons=true&hide=stars&theme=dracula&line_height=27&count_private=true&include_all_commits=true" alt="Abhinandan's github stats" />
 </a>
 
-### Latest Blog Posts
+### Latest Blog Posts -
 - [Google Summer of Code. How I did it, and how you can do it too!
 ](https://medium.com/@abhinandan0659/google-summer-of-code-how-i-did-it-and-how-you-can-do-it-too-22e51201a1e0?source=friends_link&sk=8d198b3a537d3a4411b55ad3ce0ba94f) - On Medium
 
