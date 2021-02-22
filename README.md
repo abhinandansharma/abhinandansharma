@@ -1,8 +1,6 @@
 ### Hi there, I'm Abhinandan! 👋
-<br />
-
 ![](https://komarev.com/ghpvc/?username=abhinandansharma&color=blueviolet)
-<br />
+
 <a href="https://twitter.com/notjustadev">
   <img align="left" alt="Abhinandan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
