@@ -48,11 +48,9 @@
 ---
 ### 📊 GitHub Stats
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinandansharma&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinandansharma&theme=dracula)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinandansharma&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinandansharma&theme=dracula) &nbsp; ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinandansharma&theme=dracula)
-
-
-
 
 ---
 
