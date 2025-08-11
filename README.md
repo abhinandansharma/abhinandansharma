@@ -38,14 +38,14 @@
 
 ---
 
-### 🚀 What I’m Up To  
-- Crafting my portfolio website — gotta have that perfect digital handshake!  
+### 🚀 What I’m Up To
+- Crafting my portfolio website — gotta have that perfect digital handshake!
 - Building a stablecoin like USDT, but pegged to INR — combining blockchain and real-world finance.
-
-- Diving deep into **MongoDB**, **TypeScript**, **Node.js**, and **Three.js** to level up backend & 3D skills.  
+- Diving deep into **MongoDB**, **TypeScript**, **Node.js**, and **Three.js** to level up backend & 3D skills.
 - Experimenting with OCR + AI for faster data extraction (because speed matters).
 
 ---
+
 ### 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinandansharma&theme=dracula) <br/>
@@ -67,9 +67,9 @@
 
 ---
 
-### 🎯 Goals & Aspirations  
-- Get damn good at backend development to complement my frontend expertise.  
-- Build scalable, secure full-stack apps that people actually use.  
+### 🎯 Goals & Aspirations
+- Get damn good at backend development to complement my frontend expertise.
+- Build scalable, secure full-stack apps that people actually use.
 - Share knowledge via blogs and maybe a YouTube channel.
 - Balance work and play — because no great dev ever thrived without some gaming wins.
 
