@@ -49,8 +49,10 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinandansharma&theme=dracula) <br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinandansharma&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinandansharma&theme=dracula&utcOffset=5.30)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinandansharma&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ---
 
