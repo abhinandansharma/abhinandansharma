@@ -23,6 +23,7 @@
 - Based in India 🇮🇳  
 - Shoot me a message at [abhinandan0659@gmail.com](mailto:abhinandan0659@gmail.com)  
 - Open to collabs, side projects, or just geeky chats!
+- Check my [Portfolio](https://abhinandansharma.github.io/portfolio/)
 
 ---
 
@@ -33,7 +34,7 @@
   <a href="https://t.me/abhinandan0659" title="Telegram"><img alt="Telegram" width="22px" src="https://user-images.githubusercontent.com/35263182/173191559-3eb57002-e484-4f80-a9e6-8302b546a0b5.png" /></a>&nbsp;
   <a href="https://instagram.com/_abhinandansharma" title="Instagram"><img alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/35263182/173191357-4967e888-c340-4b1b-83c0-c027bd5f0b52.png" /></a>&nbsp;
   <a href="https://medium.com/@abhinandan0659" title="Medium"><img alt="Medium" width="22px" src="https://user-images.githubusercontent.com/35263182/173191404-e45bb7e5-e70d-4cab-99c5-bc8056dea12f.png" /></a>&nbsp;
-  <a href="https://twitter.com/notjustadev" title="Twitter (X)"><img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" /></a>
+  <a href="https://twitter.com/notjustadev" title="Twitter (X)"><img alt="Twitter" width="25px" src="https://img.icons8.com/?size=25&id=6Fsj3rv2DCmG&format=png&color=FFFFFF" /></a>
 </p>
 
 ---
