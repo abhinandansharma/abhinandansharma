@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Abhinandan — Builder, Coder & Problem Solver
+# 👋 Hey, I’m Abhinandan Sharma — Builder, Coder & Problem Solver
 
 *Turning caffeine into clean code and gaming wins.*
 
