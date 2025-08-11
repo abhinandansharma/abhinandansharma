@@ -49,7 +49,6 @@
 ### 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinandansharma&theme=dracula) <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinandansharma&theme=dracula) <br/>
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinandansharma&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
@@ -79,6 +78,7 @@
 ### ✍️ Latest Reads & Writes  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhinandan0659)
 
+- [My First ever Chrome Extension(A Twtich Ad-Block)](https://medium.com/@abhinandan0659/how-i-built-my-first-chrome-extension-a-twitch-ad-blocker-30cbad3c8b44)
 - [Google Summer of Code: How I did it (and how you can too)](https://medium.com/@abhinandan0659/google-summer-of-code-how-i-did-it-and-how-you-can-do-it-too-22e51201a1e0?source=friends_link&sk=8d198b3a537d3a4411b55ad3ce0ba94f)  
 - [How I turned my Windows PC into a dev productivity machine](https://medium.com/@abhinandan0659/how-i-turned-my-windows-pc-into-a-productivity-machine-for-development-wsl-hyper-oh-my-zsh-79ee614afbd2?source=friends_link&sk=b1e866afd6ebc05471f8247fe6e57f91)
 
