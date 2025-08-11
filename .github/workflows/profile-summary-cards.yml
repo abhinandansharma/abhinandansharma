@@ -1,22 +1,33 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  create:
-  schedule: # execute every 24 hours
+  schedule:
     - cron: "0 0 * * *" # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-cards
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false # don't use default token
+          ref: master
+
+      - name: Configure git for pushing
+        run: |
+          git config --global user.name "abhinandansharma"
+          git config --global user.email "your-email@example.com"
+          git remote set-url origin https://x-access-token:${{ secrets.SUMMARY_CARD_TOKEN }}@github.com/${{ github.repository }}.git
+
+      - name: Generate GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH: master
