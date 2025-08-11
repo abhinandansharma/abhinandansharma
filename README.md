@@ -21,7 +21,7 @@
 
 ### 🌍 Location & Contact  
 - Based in India 🇮🇳  
-- Shoot me a message at [test.abhinandan@gmail.com](mailto:test.abhinandan@gmail.com)  
+- Shoot me a message at [abhinandan0659@gmail.com](mailto:abhinandan0659@gmail.com)  
 - Open to collabs, side projects, or just geeky chats!
 
 ---
