@@ -75,7 +75,7 @@
 
 ---
 
-### ✍️ Latest Reads & Writes  
+### ✍️ Latest Blogs I wrote  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhinandan0659)
 
 - [My First ever Chrome Extension(A Twtich Ad-Block)](https://medium.com/@abhinandan0659/how-i-built-my-first-chrome-extension-a-twitch-ad-blocker-30cbad3c8b44)
