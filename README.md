@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Abhinandan — Builder, Coder & Problem Solver
+# 👋 Hey, I’m Abhinandan - Builder, Coder & Problem Solver
 
 *Turning caffeine into clean code and gaming wins.*
 
@@ -14,7 +14,7 @@
 ### 🎮 About Me  
 - Front-end dev with a CSS superpower and a hunger to master backend & full-stack skills.  
 - Pro gamer in downtime, always aiming for that clutch play (and a clean codebase).  
-- Obsessed with building useful apps that solve real problems — no fluff, just impact.  
+- Obsessed with building useful apps that solve real problems; no fluff, just impact.  
 - Lifelong learner powered by Google, Stack Overflow, and a healthy dose of curiosity.
 
 ---
@@ -40,8 +40,8 @@
 ---
 
 ### 🚀 What I’m Up To
-- Crafting my portfolio website — gotta have that perfect digital handshake!
-- Building a stablecoin like USDT, but pegged to INR — combining blockchain and real-world finance.
+- Crafting my portfolio website. Gotta have that perfect digital handshake!
+- Building a stablecoin like USDT, but pegged to INR —> combining blockchain and real-world finance.
 - Diving deep into **MongoDB**, **TypeScript**, **Node.js**, and **Three.js** to level up backend & 3D skills.
 - Experimenting with OCR + AI for faster data extraction (because speed matters).
 
@@ -74,7 +74,7 @@
 - Get damn good at backend development to complement my frontend expertise.
 - Build scalable, secure full-stack apps that people actually use.
 - Share knowledge via blogs and maybe a YouTube channel.
-- Balance work and play — because no great dev ever thrived without some gaming wins.
+- Balance work and play, because no great dev ever thrived without some gaming wins.
 
 ---
 
