@@ -30,7 +30,7 @@
 ### 🌐 Find me around the web  
 <p>
   <a href="https://codepen.io/abhinandansharma" title="CodePen"><img alt="CodePen" width="22px" src="https://user-images.githubusercontent.com/35263182/173191693-3862a52f-6cf0-4be0-8093-7f50f5819a3f.png" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/abhinandan-sharma-672299150/" title="LinkedIn"><img alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/35263182/173191332-989a9e9c-57f9-4d73-b311-d3bcecbc6e48.png" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/-abhinandan/" title="LinkedIn"><img alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/35263182/173191332-989a9e9c-57f9-4d73-b311-d3bcecbc6e48.png" /></a>&nbsp;
   <a href="https://t.me/abhinandan0659" title="Telegram"><img alt="Telegram" width="22px" src="https://user-images.githubusercontent.com/35263182/173191559-3eb57002-e484-4f80-a9e6-8302b546a0b5.png" /></a>&nbsp;
   <a href="https://instagram.com/_abhinandansharma" title="Instagram"><img alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/35263182/173191357-4967e888-c340-4b1b-83c0-c027bd5f0b52.png" /></a>&nbsp;
   <a href="https://medium.com/@abhinandan0659" title="Medium"><img alt="Medium" width="22px" src="https://user-images.githubusercontent.com/35263182/173191404-e45bb7e5-e70d-4cab-99c5-bc8056dea12f.png" /></a>&nbsp;
